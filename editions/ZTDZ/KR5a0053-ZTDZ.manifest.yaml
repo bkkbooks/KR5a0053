@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0053/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0053/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞淵北帝天蓬護命消災神咒妙經
+  date: '2015-08-28 23:35:24.344947'
+  source:
+    repository: kanripo
+    path: KR5a0053
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0053_000-ZTDZ.yaml, hash: 'sha256:738404c85d1a9f2065395c4c16fd2538154e4d4a3c6220693e8eac670fdc416c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0053_000-ZTDZ.markers.yaml, hash: 'sha256:a5fbac8aef788f436e21ee6eeee5c1378703e816faf3a772d58b8215d831f6dc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0053_SJB_000-010883c
+    span:
+    - body
+    - 0
+    - 221
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:4e35acfc08172c4abed2390529469a1ded22c7303008c6491c0d192a4a84852f
